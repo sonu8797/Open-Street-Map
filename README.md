@@ -11,5 +11,4 @@ an element by matching the input string with the substring of the name.
 The platform provides the feature to find the first k closest nodes of any node and also the shortest
 distance between any two nodes.
 
-You can find more about this project in the following link
-[https://github.com/sonu8797/Open-Street-map]
+
